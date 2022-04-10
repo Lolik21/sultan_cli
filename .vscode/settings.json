@@ -1,0 +1,23 @@
+{
+    "cSpell.words": [
+        "apksigner",
+        "apktool",
+        "Archiver",
+        "avdmanager",
+        "cmdline",
+        "decompile",
+        "decompiled",
+        "dialoguer",
+        "genkey",
+        "googleplay",
+        "jarsigner",
+        "keyalg",
+        "keysize",
+        "keytool",
+        "logcat",
+        "reqwest",
+        "sdkmanager",
+        "storepass",
+        "zipalign"
+    ]
+}

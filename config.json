@@ -1,0 +1,14 @@
+{
+  "apk_key": "com.dc.hwsj",
+  "g_play": {
+    "uname": "***",
+    "passwd": "***"
+  },
+  "emulator": {
+    "name": "sultan",
+    "system_ver": "system-images;android-29;google_apis;x86_64",
+    "device_dir": "./wd/emulator",
+    "sd_size": "5000M",
+    "http_proxy": true
+  }
+}
